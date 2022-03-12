@@ -674,7 +674,7 @@ program Land
             end if
         else if(a==1) then
             print *,"You both hear a sound from the bushes. The boy gets teriified and starts running. "
-            print *,"All of a sudden a bear attacks and kills the boy."
+            print *,"All of a sudden a bear attacks the boy."
             print *,"1) Run away from the bear         2) shoot the bear "
             read "(i1)", a
             if ( a==1 ) then
